@@ -12,6 +12,7 @@ public class pusan_it {
 		System.out.println("yada");
 		System.out.println("deha");
 		System.out.println("sibal");
+		System.out.println("sibalseki");
 		
 	}
 
