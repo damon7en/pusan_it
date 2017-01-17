@@ -7,6 +7,8 @@ public class pusan_it {
 
 		
 		System.out.println("push");
+		System.out.println("Hi");
+		System.out.println("niko~ niko~ ni~");
 	}
 
 }
